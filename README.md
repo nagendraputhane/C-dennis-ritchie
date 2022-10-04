@@ -1,1 +1,1 @@
-The C Programming Language Book
+The C Programming Language Book by Dennis Ritchie
